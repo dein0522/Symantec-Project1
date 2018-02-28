@@ -1,5 +1,5 @@
 # Symantec-Project1
-introduction
+
 Symcode is a binary-to-txt decoding scheme, representing binary data ascii strings.
 Symcode uses a radix-8 representation, with each character representing 3 bits of data.
 
