@@ -3,7 +3,10 @@
 Symcode is a binary-to-txt decoding scheme, representing binary data ascii strings.
 Symcode uses a radix-8 representation, with each character representing 3 bits of data.
 
-The Symcode index table is		
+The Symcode index table is
+
+
+
 0 1 2 3 4 5 6 7 
 s y m a n t e c
 
